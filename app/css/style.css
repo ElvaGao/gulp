@@ -3,3 +3,9 @@
 
 .window {
   width: 7; }
+
+.body {
+  height: 30px; }
+
+body {
+  background-color: #fff; }
